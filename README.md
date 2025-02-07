@@ -84,6 +84,10 @@ Le code est organisé en plusieurs packages pour une meilleure modularité :
 - Java JDK 8 (ou supérieur)
 - Un IDE Java (Eclipse, IntelliJ IDEA, NetBeans, etc.) ou un éditeur de texte et un terminal.
 
+## Génération de la Documentation JavaDoc
+
+https://github.com/momotaku22/TpJavaParcElectrique/blob/main/doc/index.html
+
 
 # Contribuer 
 
